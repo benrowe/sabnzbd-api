@@ -1,0 +1,24 @@
+{
+    "name": "benrowe/sabnzbd-api",
+    "description": "A PHP wrapper for the sabnzbd API",
+    "keywords": ["api", "sabnzbd", "nzb", "client"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Rowe",
+            "email": "ben.rowe.83@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.5.9",
+      "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Benrowe\\Sabnzbd\\": "src/"
+        }
+    }
+}
