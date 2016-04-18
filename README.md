@@ -1,7 +1,7 @@
 Sabnzbd API  
 ===========
 
-[![Build Status](https://travis-ci.org/benrowe/sabnzbd-api.svg?branch=master)](https://travis-ci.org/benrowe/sabnzbd-api)
+[![Build Status](https://travis-ci.org/benrowe/sabnzbd-api.svg?branch=dev)](https://travis-ci.org/benrowe/sabnzbd-api)
 
 A PHP wrapper for the sabnzbd api.
 
